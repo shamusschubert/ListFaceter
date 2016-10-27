@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ListFaceter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Wells Fargo N.A.")]
+[assembly: AssemblyCompany("Shamus Schubert")]
 [assembly: AssemblyProduct("ListFaceter")]
-[assembly: AssemblyCopyright("Copyright © Wells Fargo N.A. 2016")]
+[assembly: AssemblyCopyright("Copyright Shamus Schubert 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
